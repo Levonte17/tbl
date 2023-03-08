@@ -1,0 +1,297 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-color: black;
+  color: grey;
+  }
+  ///////////HEADER////////////
+  ///////////HEADER////////////
+  .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 80px;
+    color: black;
+    background-color:greenyellow;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    .headers{
+      color: black;
+    }  
+  }
+  ///////////DASH////////////
+  ///////////DASH////////////
+  .homepage{
+    background-image: url('./assets/tbl.gif');
+    background-position: center;
+    color: greenyellow;
+    background-repeat: no-repeat;  height: 100vh;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.homepage h1{
+  font-size: 4rem;
+}
+.homepage h3{
+  font-size: 2rem;
+}
+///////////WHY////////////
+///////////WHY////////////
+.why{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 80px;
+  color: grey;
+  background-color: black;
+
+  h1{
+    font-size: 3rem;
+  }  
+  p{
+    font-size: 2rem;
+    width: 50%;
+  }
+}
+///////CREDABILITY////////
+///////CREDABILITY////////
+.credability{
+  background-image: url('./assets/tbl.png');
+  background-position: center;
+  padding-left: 20%;
+  background-repeat: no-repeat;  height: 100vh;
+  
+  h1{
+    font-size: 2rem;
+  }
+  hr{
+    border: 3px solid black;
+  }
+  .cred{
+    h2{
+      color: black;
+      text-decoration-color: black;
+    }
+    h1{
+      color: black;
+    }
+    .cr{
+      display: flex;
+      width: 100%;
+    }
+    .cred{
+      h2{
+        font-size: x-large;
+      }
+}
+
+}
+.cr{
+  display: flex;
+  
+}
+.cred{
+  h2{
+    font-size: 3rem;
+    display: flex;
+    padding-right: 35%;
+  }
+}
+}
+
+///////CREDABLE////////
+///////CREDABLE////////
+.credable{
+  h2{
+    color: black;
+    text-decoration-color: black;
+    font-size: 3rem;
+    }
+    h1{
+      color: black;
+    }
+    hr{
+      border: 3px solid black;
+    }
+  }
+  ///////FORM////////
+  ///////FORM////////
+form{
+  background-image: url('./assets/form.png');
+  width: 75%;
+  color: white;
+  text-align: center;
+  margin-left: 13%;
+  font-size: 3rem;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  input{
+    width: 70%;
+    height: 5%;
+    font-size: 2rem;
+  }
+  
+}
+.inp{
+  background-color: greenyellow;
+}
+  ///////////////ATHELETES ////////////////////////
+  ///////////////ATHELETES ////////////////////////
+  
+  ///////////////LOCATIONS ////////////////////////
+  ///////////////LOCATIONS ////////////////////////
+  .lo{
+    text-align: center;
+    h1{
+      font-size: 4rem;
+      color: grey;
+    }
+    p{
+      font-size: 2rem;
+      color: grey;
+      width: 75%;
+      padding-left: 12%;
+    }
+    img{
+      width: 30%;
+      height: 30%;
+    }
+  }
+
+  /////////////// SIDEBYSIDE ////////////////////////
+  /////////////// SIDEBYSIDE ////////////////////////
+  .sidebyside{
+    text-align: center;
+    display: flex;
+    h1{
+      font-size: 4rem;
+      color: grey;
+    }
+    .side{
+      width: 50%;
+    }
+    a{
+      font-size: 2rem;
+      color: yellowgreen;
+      text-decoration: none;
+      width: 75%;
+    }
+    .sbs{
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  ///////////////ABOUT LOCKDOWN ////////////////////////
+  ///////////////ABOUT LOCKDOWN ////////////////////////
+  ///////////////ABOUT US ////////////////////////
+  ///////////////ABOUT US ////////////////////////
+  .us{
+    text-align: center;
+    h1{
+      font-size: 4rem;
+      color: grey;
+    }
+    p{
+      font-size: 2rem;
+      color: grey;
+      width: 75%;
+      padding-left: 12%;
+    }
+      img{
+        width: 30%;
+        height: 30%;
+      }
+  }
+
+  ///////////////FOOTER ////////////////////////
+  ///////////////FOOTER ////////////////////////
+  .footer img{
+    width: 20%;
+    height: 20%;
+    padding-top: 0;
+    
+  }
+  .footer {
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 25%;
+    color: white;
+
+}
+
+  
+///////////MOBILE////////////
+///////////MOBILE////////////
+///////////MOBILE////////////
+///////////MOBILE////////////
+///////////MOBILE////////////
+///////////MOBILE////////////
+///////////MOBILE////////////
+///////////MOBILE////////////
+///////////MOBILE////////////
+///////////MOBILE////////////
+
+@media (max-width: 768px){
+  ///////////HEADER////////////
+  ///////////HEADER////////////
+  .header{
+    display: block;
+    color: black;
+    justify-content: none;
+    align-items: right;
+    text-align: right;
+    padding: 20px 80px;
+    color: black;
+    background-color:greenyellow;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    .headers{
+      color: black;
+    }  
+  }
+  ///////////DASH////////////
+  ///////////DASH////////////
+  .homepage{
+    background-image: url('./assets/tbl.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.homepage h1{
+  font-size: 4rem;
+}
+.homepage h3{
+  font-size: 2rem;
+}
+///////////WHY////////////
+///////////WHY////////////
+.why{
+  width: 100%;
+  display: block;
+  justify-content: none;
+  align-items: center;
+  padding: 20px 80px;
+  color: grey;
+  background-color: black;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  h1{
+    font-size: 3rem;
+  }  
+  p{
+    font-size: 2rem;
+    width: 75%;
+  }
+}
+
+
+
+///////////DASH////////////
+///////////DASH////////////
+
+
+}
