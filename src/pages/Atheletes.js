@@ -9,11 +9,11 @@ import Ld from '../components/Ld';
 function Athletes(props) {
   return (
     <div className='app'>
+    <Ld />
     <Jamori />
     <Chris />
     <Jaq />
     <Lj />
-    <Ld />
     <Glizzy />
     </div>
   )
