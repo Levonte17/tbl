@@ -11,6 +11,6 @@ function Lockdown(props) {
 />
     </div>
   )
-}
+};
 
-export default Lockdown
+export default Lockdown;
