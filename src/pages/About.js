@@ -26,6 +26,6 @@ function About(props) {
 />
     </div>
   )
-}
+};
 
-export default About
+export default About;

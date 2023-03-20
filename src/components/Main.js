@@ -3,6 +3,8 @@ import { useState, useEffect,  } from 'react';
 import { Routes, Route } from 'react-router-dom';
 ///////PAGES///////////////////
 import List from '../pages/List';
+import Blogs from '../pages/Blogs';
+import MoriBlog from '../pages/MoriBlog';
 import Athletes from '../pages/Atheletes';
 import About from '../pages/About';
 import Locations from '../pages/Locations';
@@ -85,6 +87,16 @@ useEffect(() => {
     <Route path="/" element={
         <Homepage 
         createPeople={createPeople} 
+        />
+    } />
+    
+    <Route path="/blogs" element={
+        <Blogs 
+        />
+    } />
+    
+    <Route path="/jamoriwright" element={
+        <MoriBlog 
         />
     } />
     

@@ -136,9 +136,55 @@ form{
 .inp{
   background-color: greenyellow;
 }
-  ///////////////ATHELETES ////////////////////////
-  ///////////////ATHELETES ////////////////////////
-  
+  ///////////////BLOGS ////////////////////////
+  ///////////////BLOGS ////////////////////////
+  .blogpage{
+text-align: center;
+    .bloghead{
+      width: 65%;
+      text-align: center;
+    }
+  }
+.use{
+  width: 25%;
+}
+  .blogp{
+    width: 65%;
+    text-align: left;
+    font-size: x-large;
+  }
+  .flex{
+    display: flex;
+  }
+    ///////////////BLOGS ////////////////////////
+    ///////////////BLOGS ////////////////////////
+    .post{
+      width: 30%;
+    }
+    .blogs{
+    text-align: center;
+    h1{
+      font-size: 4rem;
+      color: grey;
+    }
+    p{
+      font-size: 2rem;
+      color: grey;
+      width: 75%;
+      padding-left: 12%;
+    }
+    img{
+      width: 30%;
+      height: 30%;
+    }
+  }
+.used{
+  h6{
+    font-size: large;
+  }
+  font-size: large;
+}
+
   ///////////////LOCATIONS ////////////////////////
   ///////////////LOCATIONS ////////////////////////
   .lo{

@@ -47,9 +47,9 @@ function Credability(props) {
 <br />
 <hr />
 <br />
-<Link to='/merch'>
+<Link to='/blogs'>
     <h2> 
-        View Merch
+        TBL Blogs
     </h2>
 </Link>
 <br />
