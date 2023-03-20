@@ -15,42 +15,7 @@ function Footer(props) {
     Copyright &copy; All Rights Reserved Trained By Lockdown 2023 
 <br/>
     This Site Was Made By Digital Investors Hub
-<br/>
-<br/>
-    Follow Us:
 </p>
-
- <h1>
-    <img 
-        className="footer" 
-        src={call} 
-        alt="foot"
-    />
-
-    <img 
-        className="footer" 
-        src={emaillll} 
-        alt="foot"
-    />
-
-    <img 
-        className="footer" 
-        src={facebook} 
-        alt="foot"
-    />
-
-    <img 
-        className="footer" 
-        src={insta} 
-        alt="foot"
-    />
-
-    <img 
-        className="footer" 
-        src={linked} 
-        alt="foot"
-    />
-</h1>
 
 
 </div>
