@@ -1,9 +1,3 @@
-import linked from '../assets/linked.png';
-import insta from '../assets/insta.png';
-import facebook from '../assets/facebook.jpg';
-import emaillll from '../assets/emaillll.png';
-import call from '../assets/call.png';
-
 function Footer(props) {
     
     return(
