@@ -25,7 +25,7 @@ UNDERSTAND PLAYBOOK, CONTRIBUTE TO DEFENSE AND SPECIAL TEAMS
 2. How have you been preparing for the upcoming season? 
 <br/>
 <br/>
-Training with tBL FOOTWORK 
+TRAINING WITH TBL CRAFTING MY FOOTWORK, SPEED, AND DB IQ. 
 
 <br/>
 <br/>
@@ -33,7 +33,8 @@ Training with tBL FOOTWORK
 3. What do you think will be the biggest challenge for you this season? 
 <br/>
 <br/>
-UNDERSTANDING THE PLAYBOOK AND IN BECOME A EVERY DOWN DB
+UNDERSTANDING THE PLAYBOOK AND BECOMING A EVERY DOWN DB. I DONT 
+WANT TO COME OUT OF THE GAME.
 
 <br/>
 <br/>
@@ -41,7 +42,7 @@ UNDERSTANDING THE PLAYBOOK AND IN BECOME A EVERY DOWN DB
 4. What do you think will be the biggest opportunity for you this season? 
 <br/>
 <br/>
-TWO, COME DOWN HILL AND CATCH PIC 6s DEFENSIVE TDS
+IT STARTS WITH FALL CAMP PROVING HOW MUCH I HAVE BEEN WORKING AFTER THIS SUMMER.
 
 <br/>
 <br/>
@@ -49,7 +50,8 @@ TWO, COME DOWN HILL AND CATCH PIC 6s DEFENSIVE TDS
 5. What do you think will be the biggest difference between this season and last season? 
 <br/>
 <br/>
-Last season I was immature and focused but now I am mature and ready to play every down
+LAST SEASON I WAS IMMATURE AND LITTLE FOCUS. I AM READY TO STEP UP
+AND BE ACCOUNTABLE THIS YEAR.
 
 <br/>
 <br/>
@@ -57,15 +59,14 @@ Last season I was immature and focused but now I am mature and ready to play eve
 6. What do you think will be the most important factor in determining your success this season? 
 <br/>
 <br/>
-Understand the playbook and everything else falls into play
-
+UNDERSTANDING AND STUDYING THE PLAYBOOK. 
 <br/>
 <br/>
 <br/>
 7. How do you plan to stay motivated throughout the lengthy season? 
 <br/>
 <br/>
-Surround myself with great people, stay in my lain, make great choices 
+SURROUND MYSELF WITH GREAT PEOPLE, STAY IN MY LANE, MAKE GREAT CHOICES.
 
 <br/>
 <br/>
@@ -73,39 +74,42 @@ Surround myself with great people, stay in my lain, make great choices
 8. What do you think will be the most important skill you need to develop this season? 
 <br/>
 <br/>
-Feet and speed
+FOOTWORK AND SPEED
+<br/>
+<br/>
+<br/>
+9. What do you think will be the biggest obstacle you will face this season? 
+<br/>
+<br/>
+NO ONE TO CATCH A TOUCHDOWN ON ME. 
+I GREW UP GETTING MAD IF I GOT BEAT ON ROUTE. 
+
+
 
 <br/>
 <br/>
 <br/>
-10. What do you think will be the biggest obstacle you will face this season? 
+10. How do you plan to manage your time and energy to ensure success this season? 
 <br/>
 <br/>
-No-one to catch the bal on me or touchdown on me, I grew up getting mad but if I am perfect I am good. People 
-Can catch passes but no touchdowns 
+PLANNER TO STAY ORGINIZED ON TOP OF LITTLE THINGS OFF THE FIELD 
+AND MAKE SURE I AM WHERE I AM SUPPOSED TO BE AT ALL TIMES
 
 <br/>
 <br/>
 <br/>
-11. How do you plan to manage your time and energy to ensure success this season? 
+11. How do you plan to stay healthy and injury-free throughout the season? 
 <br/>
 <br/>
-Calendar to stay up today and write down meetings and classes, just take care of the little things off the field as well 
-
-<br/>
-<br/>
-<br/>
-13. How do you plan to stay healthy and injury-free throughout the season? 
-<br/>
-<br/>
-Stretching and not over straining in the weight room eat the right foods
-
+STRETCHING AND NOT OVER STRAINING IN THE WEIGHT ROOM. LASTLY,
+MAKING SURE MY DIET IS HEALTHY
 <br/>
 <br/>
 <br/>
-14. How do you plan to stay positive and confident throughout the season? 
+12. How do you plan to stay positive and confident throughout the season? 
 <br/>
-Know that everything happened for a week, trust in god, every week is not my week, trust the process
+KNOW THAT EVERYTHING HAPPENED FOR A REASON, TRUST IN GOD, 
+KNOW THAT  EVERY WEEK IS NOT MY WEEK AND JUST TRUST THE PROCESS
 
 
       </p>
