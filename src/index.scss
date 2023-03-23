@@ -59,7 +59,7 @@ body {
 .credability{
   background-image: url('./assets/tbl.png');
   background-position: center;
-  padding-left: 20%;
+  padding-left: 0%;
   background-repeat: no-repeat;  height: 100vh;
   
   h1{
@@ -102,7 +102,14 @@ body {
 
 ///////CREDABLE////////
 ///////CREDABLE////////
+  .pimg{
+    width: 25%;
+    padding-left: 6%;
+  }
+///////CREDABLE////////
+///////CREDABLE////////
 .credable{
+  padding-left: 5%;
   h2{
     color: black;
     text-decoration-color: black;

@@ -58,6 +58,34 @@ function Credability(props) {
 <br />
 <hr />
 </div>        
+<div className="credable">
+<Link to='/prices'>
+    <h2> 
+        Workout Prices
+    </h2>
+</Link>
+<br />
+<hr />
+<br />
+<Link to='/packages'>
+    <h2> 
+        Discount Packages
+    </h2>
+</Link>
+<br />
+<hr />
+<br />
+<Link to='/merch'>
+    <h2> 
+        Retail
+    </h2>
+</Link>
+<br />
+<br />
+<br />
+<br />
+<hr />
+</div>        
 </div>        
 
 </div>        

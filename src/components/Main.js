@@ -11,6 +11,8 @@ import Locations from '../pages/Locations';
 import Lockdown from '../pages/Lockdown';
 import ShowList from '../pages/ShowList';
 import Homepage from '../pages/Homepage';
+import Packages from '../pages/Packages';
+import Prices from '../pages/Prices';
 
 function Main(props) {
 
@@ -87,6 +89,16 @@ useEffect(() => {
     <Route path="/" element={
         <Homepage 
         createPeople={createPeople} 
+        />
+    } />
+    
+    <Route path="/packages" element={
+        <Packages 
+        />
+    } />
+    
+    <Route path="/prices" element={
+        <Prices 
         />
     } />
     
