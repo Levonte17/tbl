@@ -407,7 +407,7 @@ text-align: center;
 .credability{
   background-image: url('./assets/tbl.png');
   background-position: center;
-  padding-left: 20%;
+  padding-left: 0%;
   background-repeat: no-repeat;  
   background-size: cover;
   
@@ -437,7 +437,7 @@ text-align: center;
 
 }
 .cr{
-  display: block;
+  display: flex;
   
 }
 .cred{
