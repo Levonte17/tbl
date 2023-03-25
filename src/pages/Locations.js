@@ -6,7 +6,9 @@ function Locations(props) {
     <div className='lo'>
         <h1> Our Locations</h1>
       <p>
-       I offer a unique service of traveling to train athletes in their own environment.
+       We offer a unique service of traveling to train athletes in their own environment.
+       Currently we are in Appling, Pierce, Waycross, Jesup, Richmond Hill, Savannah and Brunswick Ga 
+       minimum 4 days per week.
        Prices vary depending on the location and the number of athletes I will be training.  
        My goal is to help athletes reach their full potential and achieve their goals.
        Workouts are tailored to your group's needs. I will provide the necessary equipment 
