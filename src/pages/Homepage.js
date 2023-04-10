@@ -1,6 +1,7 @@
 ///////// COMPONENTS //////////
 
 import Credability from '../components/Credability';
+import Reviews from '../components/Reviews';
 import Why from '../components/Why';
 import Dash from '../components/Dash';
 
@@ -10,6 +11,7 @@ function Homepage(props) {
   <Dash />
   <Credability />
   <Why />
+  <Reviews />
 </div>
   )
 };

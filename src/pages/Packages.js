@@ -1,11 +1,12 @@
 import React from 'react';
-import st from '../assets/st.png'
+import free from '../assets/free.png'
 import gd from '../assets/gd.png'
-import dbt from '../assets/dbt.png'
+import partner from '../assets/partner.png'
 
 function Packages(props) {
   return (
       <div className='package'>
+        <h1>  DEALS & PACKAGES </h1>
           <img 
             src={gd} 
             alt='mori'
@@ -13,13 +14,13 @@ function Packages(props) {
           />
 
         <img 
-          src={st} 
+          src={free} 
           alt='mori'
           className="pimg"
         />
         
         <img 
-          src={dbt} 
+          src={partner} 
           alt='mori'
           className="pimg"
         />
