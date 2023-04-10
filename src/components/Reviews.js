@@ -47,6 +47,7 @@ function Reviews(props) {
             alt='mori'
             className="reviews"
           />
+      
         </div>
     </div>
   )

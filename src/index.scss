@@ -127,11 +127,21 @@ body {
   .reviews{
     text-align: center;
     h1{
+      background-color: grey;
       font-size: 4rem;
-      color: grey;
+      color: black;
+    }
+    .btn{
+      background-color: grey;
+      text-decoration: none;
+      color: black;
+      width: 50%;
+      font-size: 2rem;
+      padding: 2% 2% 2%;
     }
   }
   .review{
+    padding-top: 2%;
     img{
     width: 25%;
     height: 25%;
@@ -315,10 +325,11 @@ text-align: center;
   ///////REVIEWS////////
   ///////REVIEWS////////
   .reviews{
+    background-color: grey;
     text-align: center;
     h1{
       font-size: 3rem;
-      color: grey;
+      color: black;
     }
   }
   .review{
