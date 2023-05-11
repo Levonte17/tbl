@@ -16,14 +16,14 @@ function Kris(props) {
         <h1> KRIS </h1>
         <h2> Click Any Image To Watch Workouts</h2>
           <br/>
-    <NavLink to='/kris'>
+    <NavLink to='/https://youtu.be/Ymr-XLrnZLA'>
         <img 
                 src={kris2} 
                 alt='kris workout video'
                 className="videos"
               />
     </NavLink>
-    <NavLink to='/kris'>
+    <NavLink to='/https://youtu.be/1HXbjVeAwOQ'>
     <img 
             src={kris1} 
             alt='kris workout video'

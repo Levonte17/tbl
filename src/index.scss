@@ -396,6 +396,23 @@ h1{
       padding-top: 3%;
     }
   }
+    ///////PROFILE////////
+  ///////PROFILE PAGES////////
+.profilepage{
+  text-align: center;
+  h1{
+    background-color: yellowgreen;
+    font-size: 4rem;
+    color: black;
+  }
+}
+  .videos{
+    width: 100%;
+    height: 100%;
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
   ///////////////PACKAGES AND DEALS ////////////////////////
   ///////////////PACKAGES AND DEALS ////////////////////////
 .package{
@@ -439,7 +456,7 @@ h1{
   ///////ATHLETEPROFILES////////
   ///////ATHLETEPROFILES////////
   .athleteProfiles{
-    background-color: yellowgreen;
+    background-color: grey;
     text-align: center;
     h1{
       font-size: 3rem;

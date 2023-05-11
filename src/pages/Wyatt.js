@@ -16,7 +16,7 @@ function Wyatt(props) {
             <h1> WYATT </h1>
             <h2> Click Any Image To Watch Workouts</h2>
     <br/>
-    <NavLink to='/wyatt'>
+    <NavLink to='/https://youtu.be/Aolhn1JbZ98'>
         <img 
             src={wyatt2} 
             alt='wyatt workout video'
@@ -24,7 +24,7 @@ function Wyatt(props) {
         />
     </NavLink>
 
-    <NavLink to='/wyatt'>
+    <NavLink to='/https://youtu.be/G3v7nUROPWo'>
     <img 
         src={wyatt1} 
         alt='wyatt workout video'
