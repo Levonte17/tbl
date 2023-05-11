@@ -16,20 +16,20 @@ function Header(props) {
                 <div className='headers'>
                 <a href='https://www.youtube.com/channel/UCu0gSo_y1R6tbXWK94ktP8Q' className='headers'>
                 <FiYoutube />
-                <b>YouTube</b>
+                <b>Subscribe</b>
             </a>
                 </div>
                 <div className='headers' >
-                    <a href='https://www.instagram.com/mr_lockdown8/'
+                    <a href='https://instagram.com/trainedby_lockdown?igshid=NTc4MTIwNjQ2YQ=='
                         className='headers'>
                         <FiInstagram/> 
-                        <b>mr_lockdown8</b>
+                        <b>Follow Us</b>
                     </a> 
                 </div>
                 <div className='headers'>
     <a href='tel:+19125917848' className='headers'>
              <FiPhoneCall />
-             <b>(912)591-7848</b>
+             <b>Call Us</b>
     </a>
                 </div>    
                 </div>

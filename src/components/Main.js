@@ -5,7 +5,10 @@ import { Routes, Route } from 'react-router-dom';
 import List from '../pages/List';
 import Blogs from '../pages/Blogs';
 import MoriBlog from '../pages/MoriBlog';
-import Athletes from '../pages/Atheletes';
+import Athletes from '../pages/Athletes';
+import Wyatt from '../pages/Wyatt';
+import Kris from '../pages/Kris';
+import Matt from '../pages/Matt';
 import About from '../pages/About';
 import Locations from '../pages/Locations';
 import Lockdown from '../pages/Lockdown';
@@ -129,6 +132,24 @@ useEffect(() => {
     
     <Route path="/locations" element={
         <Locations 
+        />
+    } />
+    
+    
+    <Route path="/kris" element={
+        <Kris 
+        />
+    } />
+    
+    
+    <Route path="/matt" element={
+        <Matt 
+        />
+    } />
+    
+    
+    <Route path="/wyatt" element={
+        <Wyatt 
         />
     } />
     

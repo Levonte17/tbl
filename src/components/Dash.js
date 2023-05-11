@@ -8,7 +8,7 @@ function Dash(props) {
     <h1> 
         TRAINED BY LOCKDOWN 
         <h3 className="dashp">
-            Speed, Agility, And DB Specific Training
+            Speed, Agility, Quickness And DB Specific Training
         </h3>
     </h1>
 </div>

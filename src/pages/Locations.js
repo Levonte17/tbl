@@ -6,15 +6,15 @@ function Locations(props) {
     <div className='lo'>
         <h1> Our Locations</h1>
       <p>
-       We offer a unique service of traveling to train athletes in their own environment.
-       Currently we are in Appling, Pierce, Waycross, Jesup, Richmond Hill, Savannah and Brunswick Ga 
-       minimum 4 days per week.
-       Prices vary depending on the location and the number of athletes I will be training.  
+       Trained By Lockdown offers the best personal training near
+       Appling County, Pierce County, Waycross GA, Jesup GA, Richmond Hill GA, Savannah GA and Brunswick Ga and surrounding counties.
+       We also provide the best online workouts/coaching for all sports and non athletes.
+       Additionally, our staff will travel to train  anywhere in the United States for groups of athletes or fixed prices. 
        My goal is to help athletes reach their full potential and achieve their goals.
        Workouts are tailored to your group's needs. I will provide the necessary equipment 
        and guidance to ensure that everyone in your group is getting the most
-       out of their workout. With my help, if you are coachable, you can reach your 
-       fitness goals and have a great time doing it.
+       out of their workout. Our workouts are held outside on grass or turf fields. Finally, You can get faster, quicker, explosive, and better athletic iq from our how to 
+       youtube videos With my help, if you are coachable, you can reach your fitness goals and have a great time doing it.
       </p>
 
 <img 
