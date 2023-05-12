@@ -12,21 +12,21 @@ function Athletes(props) {
         Our Athletes
       </h1>
         <div className='review'>
-<Link to='/matt'>
+<Link to='Matt'>
         <img 
             src={mattProfile} 
             alt='matt football profile'
             className="reviews"
             />
 </Link>
-<Link to='/wyatt'>
+<Link to='Wyatt'>
         <img 
             src={wyattProfile} 
             alt='wyatt athlete profile'
             className="reviews"
           />
 </Link>
-<Link to='/kris'>
+<Link to='Kris'>
         <img 
             src={krisProfile} 
             alt='kris baseball profile'
