@@ -5,6 +5,7 @@ import mattCover from '../assets/mattCover.png'
 import matt1 from '../assets/matt1.png'
 import matt2 from '../assets/matt2.png'
 import matt3 from '../assets/matt3.png'
+import matt4 from '../assets/matt4.png'
 
 function Matt(props) {
   return (
@@ -16,6 +17,13 @@ function Matt(props) {
           />
         <h1> MATT </h1>
         <h2> Click Any Image To Watch Workouts</h2>
+    <NavLink to='https://youtu.be/xO-LUENz38c'>
+        <img 
+                src={matt4} 
+                alt='matt workout video'
+                className="videos"
+              />
+    </NavLink>
     <NavLink to='https://youtu.be/soPquQQOE1Y'>
     <img 
             src={matt3} 
@@ -30,6 +38,7 @@ function Matt(props) {
                 className="videos"
               />
     </NavLink>
+
     <NavLink to='https://youtu.be/QqrSWbXn1A8'>
         <img 
                 src={matt1} 
@@ -37,6 +46,7 @@ function Matt(props) {
                 className="videos"
               />
     </NavLink>
+
     </div>
   )
 }

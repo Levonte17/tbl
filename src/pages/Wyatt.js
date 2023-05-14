@@ -4,6 +4,7 @@ import { NavLink } from 'react-router-dom';
 import wyattCover from '../assets/wyattCover.png'
 import wyatt1 from '../assets/wyatt1.png'
 import wyatt2 from '../assets/wyatt2.png'
+import wyatt3 from '../assets/wyatt3.png'
 
 function Wyatt(props) {
   return (
@@ -16,6 +17,13 @@ function Wyatt(props) {
             <h1> WYATT </h1>
             <h2> Click Any Image To Watch Workouts</h2>
     <br/>
+    <NavLink to='https://youtu.be/Rff5oJKY8dc'>
+        <img 
+            src={wyatt3} 
+            alt='wyatt workout video'
+            className="videos"
+        />
+    </NavLink>
     <NavLink to='https://youtu.be/Aolhn1JbZ98'>
         <img 
             src={wyatt2} 
