@@ -2,8 +2,8 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 
 import wyattCover from '../assets/wyattCover.png'
-import wyatt1 from '../assets/wyatt1.png'
-import wyatt2 from '../assets/wyatt2.png'
+import wyatt4 from '../assets/wyatt4.png'
+import wyatt5 from '../assets/wyatt5.png'
 import wyatt3 from '../assets/wyatt3.png'
 
 function Wyatt(props) {
@@ -17,28 +17,28 @@ function Wyatt(props) {
             <h1> WYATT </h1>
             <h2> Click Any Image To Watch Workouts</h2>
     <br/>
-    <NavLink to='https://youtu.be/Rff5oJKY8dc'>
+    <NavLink to='https://www.youtube.com/watch?v=97B5vwolnLw'>
+        <img 
+            src={wyatt5} 
+            alt='wyatt workout video'
+            className="videos"
+        />
+    </NavLink>
+    <NavLink to='https://www.youtube.com/watch?v=mzQWkVbCiQo&t=21s'>
+    <img 
+        src={wyatt4} 
+        alt='wyatt workout video'
+        className="videos"
+    />
+    </NavLink>
+    <NavLink to='https://youtu.be/Aolhn1JbZ98'>
         <img 
             src={wyatt3} 
             alt='wyatt workout video'
             className="videos"
         />
     </NavLink>
-    <NavLink to='https://youtu.be/Aolhn1JbZ98'>
-        <img 
-            src={wyatt2} 
-            alt='wyatt workout video'
-            className="videos"
-        />
-    </NavLink>
 
-    <NavLink to='https://youtu.be/G3v7nUROPWo'>
-    <img 
-        src={wyatt1} 
-        alt='wyatt workout video'
-        className="videos"
-    />
-    </NavLink>
     </div>
   )
 }
