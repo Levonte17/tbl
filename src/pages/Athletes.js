@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import wyattProfile from '../assets/wyattProfile.png';
 import mattProfile from '../assets/mattProfile.png';
 import krisProfile from '../assets/krisProfile.png';
+import peytonProfile from '../assets/peytonProfile.png';
 
 function Athletes(props) {
   return (
@@ -30,6 +31,13 @@ function Athletes(props) {
         <img 
             src={krisProfile} 
             alt='kris baseball profile'
+            className="reviews"
+        />
+</Link>
+<Link to='Peyton'>
+        <img 
+            src={peytonProfile} 
+            alt='peyton baseball profile'
             className="reviews"
         />
 </Link>

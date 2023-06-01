@@ -3,11 +3,10 @@ import { useState, useEffect,  } from 'react';
 import { Routes, Route } from 'react-router-dom';
 ///////PAGES///////////////////
 import List from '../pages/List';
-import Blogs from '../pages/Blogs';
-import MoriBlog from '../pages/MoriBlog';
 import Athletes from '../pages/Athletes';
 import Wyatt from '../pages/Wyatt';
 import Kris from '../pages/Kris';
+import Peyton from '../pages/Peyton';
 import Matt from '../pages/Matt';
 import About from '../pages/About';
 import Locations from '../pages/Locations';
@@ -105,13 +104,8 @@ useEffect(() => {
         />
     } />
     
-    <Route path="/blogs" element={
-        <Blogs 
-        />
-    } />
-    
-    <Route path="/jamoriwright" element={
-        <MoriBlog 
+    <Route path="/peyton" element={
+        <Peyton 
         />
     } />
     
