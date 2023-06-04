@@ -1,9 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import wyattProfile from '../assets/wyattProfile.png';
-import mattProfile from '../assets/mattProfile.png';
-import krisProfile from '../assets/krisProfile.png';
-import peytonProfile from '../assets/peytonProfile.png';
+import bryceProfile from '../assets/bryceProfile.png';
+import garrisonProfile from '../assets/garrisonProfile.png';
+import brennonProfile from '../assets/brennonProfile.png';
 
 function Athletes(props) {
   return (
@@ -13,34 +12,35 @@ function Athletes(props) {
          Athletes
       </h1>
         <div className='athleteProfiles'>
-<Link to='Matt'>
+<Link to='Garrison'>
         <img 
-            src={mattProfile} 
-            alt='matt football profile'
+            src={garrisonProfile} 
+            alt='garrison football profile'
             className="athleteProfiles"
         />
 </Link>
-<Link to='Wyatt'>
+<Link to='Bryce'>
         <img 
-            src={wyattProfile} 
-            alt='wyatt athlete profile'
+            src={bryceProfile} 
+            alt='Bryce athlete profile'
             className="athleteProfiles"
         />
 </Link>
-<Link to='Kris'>
+<Link to='Brennon'>
         <img 
-            src={krisProfile} 
-            alt='kris baseball profile'
+            src={brennonProfile} 
+            alt='Brennon baseball profile'
             className="athleteProfiles"
         />
 </Link>
-<Link to='Peyton'>
-        <img 
-            src={peytonProfile} 
-            alt='peyton baseball profile'
-            className="athleteProfiles"
-        />
+<Link to='Athletes'>
+  <br/>
+  <br/>
+        <button className='athbtn'>
+           All Athletes
+        </button>
 </Link>
+
     </div>
   </div>
 </div>

@@ -3,9 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 import mattCover from '../assets/mattCover.png'
 
-import matt7 from '../assets/matt7.png'
-import matt5 from '../assets/matt5.png'
-import matt6 from '../assets/matt6.png'
+import matt8 from '../assets/matt8.png'
 
 function Matt(props) {
   return (
@@ -17,27 +15,14 @@ function Matt(props) {
           />
         <h1> MATT </h1>
         <h2> Click Any Image To Watch Workouts</h2>
-    <NavLink to='https://www.youtube.com/watch?v=6yt4YB1BKQs'>
+    <NavLink to='https://www.youtube.com/watch?v=O7w-3OumQxc&t=18s'>
         <img 
-                src={matt7} 
+                src={matt8} 
                 alt='matt workout video'
                 className="videos"
               />
     </NavLink>
-    <NavLink to='https://www.youtube.com/watch?v=3enyUdC8nPQ'>
-        <img 
-                src={matt6} 
-                alt='matt workout video'
-                className="videos"
-              />
-    </NavLink>
-    <NavLink to='https://www.youtube.com/watch?v=cuqSb7VFBPU'>
-        <img 
-                src={matt5} 
-                alt='matt workout video'
-                className="videos"
-              />
-    </NavLink>
+    
     </div>
   )
 }

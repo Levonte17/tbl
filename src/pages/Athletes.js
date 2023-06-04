@@ -4,6 +4,9 @@ import wyattProfile from '../assets/wyattProfile.png';
 import mattProfile from '../assets/mattProfile.png';
 import krisProfile from '../assets/krisProfile.png';
 import peytonProfile from '../assets/peytonProfile.png';
+import bryceProfile from '../assets/bryceProfile.png';
+import garrisonProfile from '../assets/garrisonProfile.png';
+import brennonProfile from '../assets/brennonProfile.png';
 
 function Athletes(props) {
   return (
@@ -39,6 +42,27 @@ function Athletes(props) {
             src={peytonProfile} 
             alt='peyton baseball profile'
             className="reviews"
+        />
+</Link>
+<Link to='Garrison'>
+        <img 
+            src={garrisonProfile} 
+            alt='garrison football profile'
+            className="athleteProfiles"
+        />
+</Link>
+<Link to='Bryce'>
+        <img 
+            src={bryceProfile} 
+            alt='Bryce athlete profile'
+            className="athleteProfiles"
+        />
+</Link>
+<Link to='Brennon'>
+        <img 
+            src={brennonProfile} 
+            alt='Brennon baseball profile'
+            className="athleteProfiles"
         />
 </Link>
     </div>
