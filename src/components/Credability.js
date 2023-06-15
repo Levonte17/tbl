@@ -3,11 +3,7 @@ import { Link } from "react-router-dom";
 function Credability(props) {
     return(
 <div className="credability">
-<Link to='/athletes'>
-    <h2> 
-        View Athletes
-    </h2>
-</Link>
+
 <Link to='/people'>
     <h2> 
         Contact Us
@@ -29,12 +25,6 @@ function Credability(props) {
 <Link to='/about-us'>
     <h2> 
         About TBL
-    </h2>
-</Link>
-
-<Link to='/about-me'>
-    <h2> 
-        About Coach Lockdown
     </h2>
 </Link>
 
