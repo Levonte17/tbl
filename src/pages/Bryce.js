@@ -2,7 +2,8 @@ import React from 'react'
 import { NavLink } from 'react-router-dom';
 
 import bryceCover from '../assets/bryceCover.png'
-import bryce1 from '../assets/bryce1.png'
+import kris2 from '../assets/kris2.png'
+import bb1 from '../assets/bb1.png'
 
 
 
@@ -17,10 +18,17 @@ function Bryce(props) {
         <h1> Bryce </h1>
         <h2> Click Any Image To Watch Workouts</h2>
           <br/>
-    <NavLink to='https://www.youtube.com/watch?v=UVfGUtfALnk'>
+          <NavLink to='https://www.youtube.com/watch?v=KR-JKN9BWLI'>
     <img 
-            src={bryce1} 
-            alt='Bryce workout video'
+            src={kris2} 
+            alt='brennon workout video'
+            className="videos"
+          />
+    </NavLink>
+    <NavLink to='https://www.youtube.com/watch?v=5pvQyikJNZM'>
+    <img 
+            src={bb1} 
+            alt='brennon workout video'
             className="videos"
           />
     </NavLink>

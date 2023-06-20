@@ -17,7 +17,7 @@ function Kris(props) {
         <h1> KRIS </h1>
         <h2> Click Any Image To Watch Workouts</h2>
           <br/>
-    <NavLink to='https://www.youtube.com/watch?v=Py3PDr819Tg'>
+    <NavLink to='https://www.youtube.com/watch?v=i-HGYqh2JNg'>
     <img 
             src={kris2} 
             alt='kris workout video'
