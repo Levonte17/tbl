@@ -36,7 +36,7 @@ function Athletes(props) {
             className="reviews"
         />
 </Link>
-<Link to='peyton'>
+<Link to='/peyton'>
         <img 
             src={peytonProfile} 
             alt='peyton baseball profile'
