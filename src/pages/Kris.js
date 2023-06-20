@@ -2,8 +2,8 @@ import React from 'react'
 import { NavLink } from 'react-router-dom';
 
 import krisCover from '../assets/krisCover.png'
-import kris6 from '../assets/kris6.png'
-import kris7 from '../assets/kris7.png'
+import kris2 from '../assets/kris2.png'
+import kris1 from '../assets/kris1.png'
 
 
 function Kris(props) {
@@ -19,28 +19,20 @@ function Kris(props) {
           <br/>
     <NavLink to='https://www.youtube.com/watch?v=Py3PDr819Tg'>
     <img 
-            src={kris6} 
+            src={kris2} 
             alt='kris workout video'
             className="videos"
           />
     </NavLink>
    
-    <NavLink to='https://www.youtube.com/watch?v=XydHsmLp2Vo'>
+    <NavLink to='https://www.youtube.com/watch?v=WomEe53fShM'>
     <img 
-            src={kris7} 
+            src={kris1} 
             alt='kris workout video'
             className="videos"
           />
     </NavLink>
-   
-    <NavLink to='https://www.youtube.com/watch?v=Py3PDr819Tg'>
-    <img 
-            src={kris6} 
-            alt='kris workout video'
-            className="videos"
-          />
-    </NavLink>
-   
+
     </div>
   )
 }

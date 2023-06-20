@@ -5,7 +5,6 @@ import { Routes, Route } from 'react-router-dom';
 import List from '../pages/List';
 import Athletes from '../pages/Athletes';
 import Wyatt from '../pages/Wyatt';
-import Garrison from '../pages/Garrison';
 import Bryce from '../pages/Bryce';
 import Brennon from '../pages/Brennon';
 import Kris from '../pages/Kris';
@@ -117,13 +116,6 @@ useEffect(() => {
         <Bryce 
         />
     } />
-    
-    
-    <Route path="/garrison" element={
-        <Garrison 
-        />
-    } />
-    
     
     <Route path="/brennon" element={
         <Brennon 
