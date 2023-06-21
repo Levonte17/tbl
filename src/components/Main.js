@@ -6,6 +6,7 @@ import List from '../pages/List';
 import Athletes from '../pages/Athletes';
 import Wyatt from '../pages/Wyatt';
 import Bryce from '../pages/Bryce';
+import Cam from '../pages/Cam';
 import Brennon from '../pages/Brennon';
 import Kris from '../pages/Kris';
 import Peyton from '../pages/Peyton';
@@ -119,6 +120,11 @@ useEffect(() => {
     
     <Route path="/brennon" element={
         <Brennon 
+        />
+    } />
+ 
+    <Route path="/cam" element={
+        <Cam 
         />
     } />
     

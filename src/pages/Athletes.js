@@ -6,6 +6,7 @@ import krisProfile from '../assets/krisProfile.png';
 import peytonProfile from '../assets/peytonProfile.png';
 import bryceProfile from '../assets/bryceProfile.png';
 import brennonProfile from '../assets/brennonProfile.png';
+import camProfile from '../assets/camProfile.png';
 
 function Athletes(props) {
   return (
@@ -55,6 +56,13 @@ function Athletes(props) {
         <img 
             src={brennonProfile} 
             alt='Brennon baseball profile'
+            className="athleteProfiles"
+        />
+</Link>
+<Link to='/cam'>
+        <img 
+            src={camProfile} 
+            alt='cam football profile'
             className="athleteProfiles"
         />
 </Link>
