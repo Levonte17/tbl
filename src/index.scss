@@ -5,6 +5,12 @@ body {
   background-color: black;
   color: grey;
   }
+  ///////////STICKY HEADER////////////
+  ///////////STICKY HEADER////////////
+  .header{
+    position: absolute;
+    top: 0;
+  }
   ///////////HEADER////////////
   ///////////HEADER////////////
   .header{
@@ -427,7 +433,6 @@ h1{
   ///////////HEADER////////////
   ///////////HEADER////////////
   .header{
-    display: block;
     color: black;
     justify-content: none;
     align-items: right;

@@ -12,7 +12,7 @@ function Wyatt(props) {
             src={wyattCover} 
             alt='wyatt athlete page'
             className="cover"
-            />
+        />
             <h1> WYATT </h1>
             <h2> Click Any Image To Watch Workouts</h2>
     <br/>
