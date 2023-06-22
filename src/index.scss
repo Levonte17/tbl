@@ -8,7 +8,7 @@ body {
   ///////////STICKY HEADER////////////
   ///////////STICKY HEADER////////////
   .header{
-    position: absolute;
+    position: fixed;
     top: 0;
   }
   ///////////HEADER////////////
@@ -436,7 +436,7 @@ h1{
     color: black;
     justify-content: none;
     align-items: right;
-    position: absolute;
+    position: fixed;
     top: 0;
     text-align: right;
     padding: 0;
