@@ -18,6 +18,7 @@ import ShowList from '../pages/ShowList';
 import Homepage from '../pages/Homepage';
 import Packages from '../pages/Packages';
 import Prices from '../pages/Prices';
+import Quency from '../pages/Quency';
 
 function Main(props) {
 
@@ -109,6 +110,12 @@ useEffect(() => {
     
     <Route path="/peyton" element={
         <Peyton 
+        />
+    } />
+    
+    
+    <Route path="/quency" element={
+        <Quency 
         />
     } />
     

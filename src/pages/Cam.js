@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 import camCover from '../assets/camCover.png'
 import cam1 from '../assets/cam1.png'
 import cam2 from '../assets/cam2.png'
-import cam3 from '../assets/cam3.png'
+import tbl1 from '../assets/tbl1.png'
 
 function Cam(props) {
   return (
@@ -17,9 +17,9 @@ function Cam(props) {
             <h1> CAM </h1>
             <h2> Click Any Image To Watch Workouts</h2>
     <br/>
-    <NavLink to='https://www.youtube.com/watch?v=M8I-ZdAv_5o'>
+    <NavLink to='https://www.youtube.com/watch?v=0OquLXqrhHU'>
         <img 
-            src={cam3} 
+            src={tbl1} 
             alt='cam workout video'
             className="videos"
         />

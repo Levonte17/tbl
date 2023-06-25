@@ -7,6 +7,7 @@ import peytonProfile from '../assets/peytonProfile.png';
 import bryceProfile from '../assets/bryceProfile.png';
 import brennonProfile from '../assets/brennonProfile.png';
 import camProfile from '../assets/camProfile.png';
+import quencyProfile from '../assets/quencyProfile.png';
 
 function Athletes(props) {
   return (
@@ -29,6 +30,20 @@ function Athletes(props) {
             alt='wyatt athlete profile'
             className="reviews"
           />
+</Link>
+<Link to='/cam'>
+        <img 
+            src={camProfile} 
+            alt='cam football profile'
+            className="athleteProfiles"
+        />
+</Link>
+<Link to='/quency'>
+        <img 
+            src={quencyProfile} 
+            alt='quency football profile'
+            className="athleteProfiles"
+        />
 </Link>
 <Link to='/kris'>
         <img 
@@ -56,13 +71,6 @@ function Athletes(props) {
         <img 
             src={brennonProfile} 
             alt='Brennon baseball profile'
-            className="athleteProfiles"
-        />
-</Link>
-<Link to='/cam'>
-        <img 
-            src={camProfile} 
-            alt='cam football profile'
             className="athleteProfiles"
         />
 </Link>
