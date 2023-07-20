@@ -2,8 +2,7 @@ import React from 'react'
 import { NavLink } from 'react-router-dom';
 
 import brennonCover from '../assets/brennonCover.png'
-import kris2 from '../assets/kris2.png'
-import bb1 from '../assets/bb1.png'
+import tbly1 from '../assets/tbly1.png'
 
 
 
@@ -20,14 +19,14 @@ function Brennon(props) {
           <br/>
     <NavLink to='https://www.youtube.com/watch?v=_BZlnBpHjFw'>
     <img 
-            src={kris2} 
+            src={tbly1} 
             alt='brennon workout video'
             className="videos"
           />
     </NavLink>
     <NavLink to='https://www.youtube.com/watch?v=bDgrDTECWFI'>
     <img 
-            src={bb1} 
+            src={tbly1} 
             alt='brennon workout video'
             className="videos"
           />
