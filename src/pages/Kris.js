@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 import krisCover from '../assets/krisCover.png'
 import tbly1 from '../assets/tbly1.png'
-import tbly from '../assets/tbly.png'
+import kris1 from '../assets/kris1.png'
 
 function Kris(props) {
   return (
@@ -16,17 +16,17 @@ function Kris(props) {
         <h1> KRIS </h1>
         <h2> Click Any Image To Watch Workouts</h2>
           <br/>
-    <NavLink to='https://www.youtube.com/watch?v=MqM_u8UGK3E'>
+    <NavLink to='https://www.youtube.com/watch?v=uW4dJg9hfS0'>
     <img 
-            src={tbly1} 
+            src={kris1} 
             alt='kris workout video'
             className="videos"
           />
     </NavLink>
    
-    <NavLink to='https://www.youtube.com/watch?v=CnTedyBHbjo'>
+    <NavLink to='https://www.youtube.com/watch?v=MqM_u8UGK3E'>
     <img 
-            src={tbly} 
+            src={tbly1} 
             alt='kris workout video'
             className="videos"
           />
